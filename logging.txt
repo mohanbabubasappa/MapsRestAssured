@@ -1,0 +1,167 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 199,
+    "name": "Mohan",
+    "phone_number": "9963607906",
+    "address": "Kuppam",
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "website": "http://jaihindh.com",
+    "language": "Telugu"
+}
+HTTP/1.1 200 OK
+Date: Wed, 13 Dec 2023 10:46:48 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "9c24539a5bd4d55279cb465126b8f404",
+    "scope": "APP",
+    "reference": "d52fbf154188e04eee3a7d1753f38572d52fbf154188e04eee3a7d1753f38572",
+    "id": "d52fbf154188e04eee3a7d1753f38572"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 199,
+    "name": "Ramcharan",
+    "phone_number": "9963607906",
+    "address": "Chennai",
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "website": "http://jaihindh.com",
+    "language": "Tamil"
+}
+HTTP/1.1 200 OK
+Date: Wed, 13 Dec 2023 10:46:51 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "001407d6c7f86a8033e39d7144a26c2e",
+    "scope": "APP",
+    "reference": "9476df9788e6bf4f9151550185786f7b9476df9788e6bf4f9151550185786f7b",
+    "id": "9476df9788e6bf4f9151550185786f7b"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 199,
+    "name": "Puneeth",
+    "phone_number": "9963607906",
+    "address": "Bangalore",
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "website": "http://jaihindh.com",
+    "language": "Kannada"
+}
+HTTP/1.1 200 OK
+Date: Wed, 13 Dec 2023 10:46:53 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "53ccaa630a536186e7ce2b4f19363989",
+    "scope": "APP",
+    "reference": "f2bc8b694a56bc3d9e63223f2432a482f2bc8b694a56bc3d9e63223f2432a482",
+    "id": "f2bc8b694a56bc3d9e63223f2432a482"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id":\null
+}
+HTTP/1.1 200 OK
+Date: Wed, 13 Dec 2023 10:46:57 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json; charset=UTF-8
